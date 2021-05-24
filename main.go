@@ -12,7 +12,7 @@ import (
 
 var (
 	clientID     = "myclient"
-	clientSecret = "4678a287-edfc-4243-8d00-0caa5422baea"
+	clientSecret = "YOUR_SECRET"
 )
 
 func main() {
